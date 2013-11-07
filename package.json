@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "name": "wine-cellar",
     "description": "Wine Cellar Application",
     "version": "0.0.1",
@@ -13,3 +14,15 @@
         "npm": "1.1.49"
     }
 }
+=======
+  "name": "node-example",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "3.1.x"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
+>>>>>>> 8388a7178061108fac14f7414ef22ea3ee5a1b61
